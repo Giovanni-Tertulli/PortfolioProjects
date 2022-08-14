@@ -1,4 +1,4 @@
-# Movie Industry: how does budget impact gross revenue and the number of reviews a movie receives?
+# [Movie Industry: how does budget impact gross revenue and the number of reviews a movie receives?](https://github.com/Giovanni-Tertulli/PortfolioProjects/blob/main/movies_project.ipynb)
 
 > This project was initially inspired by "Alex The Analyst" YouTube channel. https://www.youtube.com/watch?v=iPYVYBtUTyE
 > The 'Movie Industry' dataset includes all the movies released since 1980. It is available on Kaggle (https://www.kaggle.com/datasets/danielgrijalvas/movies), with a more detailed description.
